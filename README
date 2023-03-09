@@ -1,0 +1,2 @@
+Elk is a (soon to come) bare-metal hypervisor based on vmm(4) supposed to
+work similary to Qubes although much more minimal and lacklustre.
